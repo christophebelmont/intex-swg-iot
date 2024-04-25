@@ -89,3 +89,7 @@ Now NodeRed ask every 30sec the esp
 Take the content from the yaml to a new Manuell element.
 
 ![Dashboard integration](https://github.com/jressel01/intex-swg-iot/blob/919abdecc5d5e0c60420e988dabc0ae782009515/Home%20Assistant%20integration/Dashboard%20Sample.JPG)
+
+
+Hello jressel01, I am very sorry for this message but I am unable to contact you. I am very interested in this project and I would like to order PCB and compile it. From my first tests with ESP-IDF, I get compilation errors. Is this project still alive and are you still willing to support it for new users?
+Thanks in advance for your answer,
